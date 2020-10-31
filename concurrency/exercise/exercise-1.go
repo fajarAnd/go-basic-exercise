@@ -19,6 +19,8 @@ func foo1() {
 	wg.Done()
 }
 
+
+
 func foo2() {
 	slice := make([]string, 50, 50)
 	for i, _ := range slice {
