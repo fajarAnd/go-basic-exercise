@@ -1,8 +1,8 @@
 package main
 
 import (
-"fmt"
-"sync"
+	"fmt"
+	"sync"
 	"sync/atomic"
 )
 
